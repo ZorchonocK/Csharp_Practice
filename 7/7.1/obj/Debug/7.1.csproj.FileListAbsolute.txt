@@ -1,0 +1,8 @@
+C:\Users\PC_110822\Desktop\практика программирование\7.1\7.1\bin\Debug\7.1.exe.config
+C:\Users\PC_110822\Desktop\практика программирование\7.1\7.1\bin\Debug\7.1.exe
+C:\Users\PC_110822\Desktop\практика программирование\7.1\7.1\bin\Debug\7.1.pdb
+C:\Users\PC_110822\Desktop\практика программирование\7.1\7.1\obj\Debug\7.1.csproj.AssemblyReference.cache
+C:\Users\PC_110822\Desktop\практика программирование\7.1\7.1\obj\Debug\7.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC_110822\Desktop\практика программирование\7.1\7.1\obj\Debug\7.1.csproj.CoreCompileInputs.cache
+C:\Users\PC_110822\Desktop\практика программирование\7.1\7.1\obj\Debug\7.1.exe
+C:\Users\PC_110822\Desktop\практика программирование\7.1\7.1\obj\Debug\7.1.pdb
