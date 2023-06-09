@@ -1,0 +1,12 @@
+/Users/zorchonock/Documents/Study/Практика ПП/18/Postal_Adress/obj/Debug/net7.0/Postal_Adress.csproj.AssemblyReference.cache
+/Users/zorchonock/Documents/Study/Практика ПП/18/Postal_Adress/obj/Debug/net7.0/Postal_Adress.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zorchonock/Documents/Study/Практика ПП/18/Postal_Adress/obj/Debug/net7.0/Postal_Adress.AssemblyInfoInputs.cache
+/Users/zorchonock/Documents/Study/Практика ПП/18/Postal_Adress/obj/Debug/net7.0/Postal_Adress.AssemblyInfo.cs
+/Users/zorchonock/Documents/Study/Практика ПП/18/Postal_Adress/obj/Debug/net7.0/Postal_Adress.csproj.CoreCompileInputs.cache
+/Users/zorchonock/Documents/Study/Практика ПП/18/Postal_Adress/bin/Debug/net7.0/Postal_Adress.deps.json
+/Users/zorchonock/Documents/Study/Практика ПП/18/Postal_Adress/bin/Debug/net7.0/Postal_Adress.dll
+/Users/zorchonock/Documents/Study/Практика ПП/18/Postal_Adress/bin/Debug/net7.0/Postal_Adress.pdb
+/Users/zorchonock/Documents/Study/Практика ПП/18/Postal_Adress/obj/Debug/net7.0/Postal_Adress.dll
+/Users/zorchonock/Documents/Study/Практика ПП/18/Postal_Adress/obj/Debug/net7.0/refint/Postal_Adress.dll
+/Users/zorchonock/Documents/Study/Практика ПП/18/Postal_Adress/obj/Debug/net7.0/Postal_Adress.pdb
+/Users/zorchonock/Documents/Study/Практика ПП/18/Postal_Adress/obj/Debug/net7.0/ref/Postal_Adress.dll
