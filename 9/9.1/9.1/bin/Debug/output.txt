@@ -1,0 +1,3 @@
+Knife, 10,  High, 2
+Spoon, 7,  Medium, 4
+Cup, 12,  High, 6
