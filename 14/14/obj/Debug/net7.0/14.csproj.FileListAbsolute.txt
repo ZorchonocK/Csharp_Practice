@@ -1,0 +1,15 @@
+/Users/zorchonock/Documents/Study/Практика ПП/14/14/bin/Debug/net7.0/14
+/Users/zorchonock/Documents/Study/Практика ПП/14/14/bin/Debug/net7.0/14.deps.json
+/Users/zorchonock/Documents/Study/Практика ПП/14/14/bin/Debug/net7.0/14.runtimeconfig.json
+/Users/zorchonock/Documents/Study/Практика ПП/14/14/bin/Debug/net7.0/14.dll
+/Users/zorchonock/Documents/Study/Практика ПП/14/14/bin/Debug/net7.0/14.pdb
+/Users/zorchonock/Documents/Study/Практика ПП/14/14/obj/Debug/net7.0/14.csproj.AssemblyReference.cache
+/Users/zorchonock/Documents/Study/Практика ПП/14/14/obj/Debug/net7.0/14.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zorchonock/Documents/Study/Практика ПП/14/14/obj/Debug/net7.0/14.AssemblyInfoInputs.cache
+/Users/zorchonock/Documents/Study/Практика ПП/14/14/obj/Debug/net7.0/14.AssemblyInfo.cs
+/Users/zorchonock/Documents/Study/Практика ПП/14/14/obj/Debug/net7.0/14.csproj.CoreCompileInputs.cache
+/Users/zorchonock/Documents/Study/Практика ПП/14/14/obj/Debug/net7.0/14.dll
+/Users/zorchonock/Documents/Study/Практика ПП/14/14/obj/Debug/net7.0/refint/14.dll
+/Users/zorchonock/Documents/Study/Практика ПП/14/14/obj/Debug/net7.0/14.pdb
+/Users/zorchonock/Documents/Study/Практика ПП/14/14/obj/Debug/net7.0/14.genruntimeconfig.cache
+/Users/zorchonock/Documents/Study/Практика ПП/14/14/obj/Debug/net7.0/ref/14.dll
