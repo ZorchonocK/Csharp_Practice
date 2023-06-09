@@ -1,0 +1,8 @@
+C:\Users\PC_110822\Desktop\практика программирование\5.1\5.1\bin\Debug\5.1.exe.config
+C:\Users\PC_110822\Desktop\практика программирование\5.1\5.1\bin\Debug\5.1.exe
+C:\Users\PC_110822\Desktop\практика программирование\5.1\5.1\bin\Debug\5.1.pdb
+C:\Users\PC_110822\Desktop\практика программирование\5.1\5.1\obj\Debug\5.1.csproj.AssemblyReference.cache
+C:\Users\PC_110822\Desktop\практика программирование\5.1\5.1\obj\Debug\5.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC_110822\Desktop\практика программирование\5.1\5.1\obj\Debug\5.1.csproj.CoreCompileInputs.cache
+C:\Users\PC_110822\Desktop\практика программирование\5.1\5.1\obj\Debug\5.1.exe
+C:\Users\PC_110822\Desktop\практика программирование\5.1\5.1\obj\Debug\5.1.pdb
