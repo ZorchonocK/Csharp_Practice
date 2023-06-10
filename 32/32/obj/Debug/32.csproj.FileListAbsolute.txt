@@ -1,0 +1,11 @@
+C:\Практика\32\32\bin\Debug\32.exe.config
+C:\Практика\32\32\bin\Debug\32.exe
+C:\Практика\32\32\bin\Debug\32.pdb
+C:\Практика\32\32\obj\Debug\32.csproj.AssemblyReference.cache
+C:\Практика\32\32\obj\Debug\32.csproj.SuggestedBindingRedirects.cache
+C:\Практика\32\32\obj\Debug\32.csproj.CoreCompileInputs.cache
+C:\Практика\32\32\obj\Debug\32.exe
+C:\Практика\32\32\obj\Debug\32.pdb
+C:\Практика\32\32\bin\Debug\System.Data.SqlClient.dll
+C:\Практика\32\32\bin\Debug\System.Data.SqlClient.xml
+C:\Практика\32\32\obj\Debug\32.csproj.CopyComplete
