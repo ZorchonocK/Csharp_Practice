@@ -1,8 +1,0 @@
-C:\Users\PC_110822\Desktop\практика программирование\6.3\6.3\bin\Debug\6.3.exe.config
-C:\Users\PC_110822\Desktop\практика программирование\6.3\6.3\bin\Debug\6.3.exe
-C:\Users\PC_110822\Desktop\практика программирование\6.3\6.3\bin\Debug\6.3.pdb
-C:\Users\PC_110822\Desktop\практика программирование\6.3\6.3\obj\Debug\6.3.csproj.AssemblyReference.cache
-C:\Users\PC_110822\Desktop\практика программирование\6.3\6.3\obj\Debug\6.3.csproj.SuggestedBindingRedirects.cache
-C:\Users\PC_110822\Desktop\практика программирование\6.3\6.3\obj\Debug\6.3.csproj.CoreCompileInputs.cache
-C:\Users\PC_110822\Desktop\практика программирование\6.3\6.3\obj\Debug\6.3.exe
-C:\Users\PC_110822\Desktop\практика программирование\6.3\6.3\obj\Debug\6.3.pdb
