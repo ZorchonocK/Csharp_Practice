@@ -1,0 +1,8 @@
+C:\Users\PC_110822\Desktop\практика программирование\6.2\6.2\bin\Debug\6.2.exe.config
+C:\Users\PC_110822\Desktop\практика программирование\6.2\6.2\bin\Debug\6.2.exe
+C:\Users\PC_110822\Desktop\практика программирование\6.2\6.2\bin\Debug\6.2.pdb
+C:\Users\PC_110822\Desktop\практика программирование\6.2\6.2\obj\Debug\6.2.csproj.AssemblyReference.cache
+C:\Users\PC_110822\Desktop\практика программирование\6.2\6.2\obj\Debug\6.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC_110822\Desktop\практика программирование\6.2\6.2\obj\Debug\6.2.csproj.CoreCompileInputs.cache
+C:\Users\PC_110822\Desktop\практика программирование\6.2\6.2\obj\Debug\6.2.exe
+C:\Users\PC_110822\Desktop\практика программирование\6.2\6.2\obj\Debug\6.2.pdb
