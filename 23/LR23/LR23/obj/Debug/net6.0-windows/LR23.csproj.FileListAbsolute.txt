@@ -1,0 +1,17 @@
+C:\Users\V1rchi\Desktop\C# практика\Страчинский_23\LR23\LR23\bin\Debug\net6.0-windows\LR23.exe
+C:\Users\V1rchi\Desktop\C# практика\Страчинский_23\LR23\LR23\bin\Debug\net6.0-windows\LR23.deps.json
+C:\Users\V1rchi\Desktop\C# практика\Страчинский_23\LR23\LR23\bin\Debug\net6.0-windows\LR23.runtimeconfig.json
+C:\Users\V1rchi\Desktop\C# практика\Страчинский_23\LR23\LR23\bin\Debug\net6.0-windows\LR23.dll
+C:\Users\V1rchi\Desktop\C# практика\Страчинский_23\LR23\LR23\bin\Debug\net6.0-windows\LR23.pdb
+C:\Users\V1rchi\Desktop\C# практика\Страчинский_23\LR23\LR23\obj\Debug\net6.0-windows\LR23.csproj.AssemblyReference.cache
+C:\Users\V1rchi\Desktop\C# практика\Страчинский_23\LR23\LR23\obj\Debug\net6.0-windows\LR23.Form1.resources
+C:\Users\V1rchi\Desktop\C# практика\Страчинский_23\LR23\LR23\obj\Debug\net6.0-windows\LR23.csproj.GenerateResource.cache
+C:\Users\V1rchi\Desktop\C# практика\Страчинский_23\LR23\LR23\obj\Debug\net6.0-windows\LR23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\V1rchi\Desktop\C# практика\Страчинский_23\LR23\LR23\obj\Debug\net6.0-windows\LR23.AssemblyInfoInputs.cache
+C:\Users\V1rchi\Desktop\C# практика\Страчинский_23\LR23\LR23\obj\Debug\net6.0-windows\LR23.AssemblyInfo.cs
+C:\Users\V1rchi\Desktop\C# практика\Страчинский_23\LR23\LR23\obj\Debug\net6.0-windows\LR23.csproj.CoreCompileInputs.cache
+C:\Users\V1rchi\Desktop\C# практика\Страчинский_23\LR23\LR23\obj\Debug\net6.0-windows\LR23.dll
+C:\Users\V1rchi\Desktop\C# практика\Страчинский_23\LR23\LR23\obj\Debug\net6.0-windows\refint\LR23.dll
+C:\Users\V1rchi\Desktop\C# практика\Страчинский_23\LR23\LR23\obj\Debug\net6.0-windows\LR23.pdb
+C:\Users\V1rchi\Desktop\C# практика\Страчинский_23\LR23\LR23\obj\Debug\net6.0-windows\LR23.genruntimeconfig.cache
+C:\Users\V1rchi\Desktop\C# практика\Страчинский_23\LR23\LR23\obj\Debug\net6.0-windows\ref\LR23.dll
