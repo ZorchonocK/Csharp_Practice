@@ -1,0 +1,15 @@
+/Users/zorchonock/Documents/Study/Практика ПП/21/21/bin/Debug/net7.0/21
+/Users/zorchonock/Documents/Study/Практика ПП/21/21/bin/Debug/net7.0/21.deps.json
+/Users/zorchonock/Documents/Study/Практика ПП/21/21/bin/Debug/net7.0/21.runtimeconfig.json
+/Users/zorchonock/Documents/Study/Практика ПП/21/21/bin/Debug/net7.0/21.dll
+/Users/zorchonock/Documents/Study/Практика ПП/21/21/bin/Debug/net7.0/21.pdb
+/Users/zorchonock/Documents/Study/Практика ПП/21/21/obj/Debug/net7.0/21.csproj.AssemblyReference.cache
+/Users/zorchonock/Documents/Study/Практика ПП/21/21/obj/Debug/net7.0/21.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zorchonock/Documents/Study/Практика ПП/21/21/obj/Debug/net7.0/21.AssemblyInfoInputs.cache
+/Users/zorchonock/Documents/Study/Практика ПП/21/21/obj/Debug/net7.0/21.AssemblyInfo.cs
+/Users/zorchonock/Documents/Study/Практика ПП/21/21/obj/Debug/net7.0/21.csproj.CoreCompileInputs.cache
+/Users/zorchonock/Documents/Study/Практика ПП/21/21/obj/Debug/net7.0/21.dll
+/Users/zorchonock/Documents/Study/Практика ПП/21/21/obj/Debug/net7.0/refint/21.dll
+/Users/zorchonock/Documents/Study/Практика ПП/21/21/obj/Debug/net7.0/21.pdb
+/Users/zorchonock/Documents/Study/Практика ПП/21/21/obj/Debug/net7.0/21.genruntimeconfig.cache
+/Users/zorchonock/Documents/Study/Практика ПП/21/21/obj/Debug/net7.0/ref/21.dll
