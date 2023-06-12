@@ -1,0 +1,11 @@
+C:\Главный Пидорас\25\25\bin\Debug\25.exe.config
+C:\Главный Пидорас\25\25\bin\Debug\25.exe
+C:\Главный Пидорас\25\25\bin\Debug\25.pdb
+C:\Главный Пидорас\25\25\obj\Debug\25.csproj.AssemblyReference.cache
+C:\Главный Пидорас\25\25\obj\Debug\25.csproj.SuggestedBindingRedirects.cache
+C:\Главный Пидорас\25\25\obj\Debug\_25.Form1.resources
+C:\Главный Пидорас\25\25\obj\Debug\_25.Properties.Resources.resources
+C:\Главный Пидорас\25\25\obj\Debug\25.csproj.GenerateResource.cache
+C:\Главный Пидорас\25\25\obj\Debug\25.csproj.CoreCompileInputs.cache
+C:\Главный Пидорас\25\25\obj\Debug\25.exe
+C:\Главный Пидорас\25\25\obj\Debug\25.pdb

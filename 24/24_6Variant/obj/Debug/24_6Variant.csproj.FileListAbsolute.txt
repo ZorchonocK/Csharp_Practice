@@ -1,0 +1,11 @@
+C:\Главный Пидорас\24_6Variant\bin\Debug\24_6Variant.exe.config
+C:\Главный Пидорас\24_6Variant\bin\Debug\24_6Variant.exe
+C:\Главный Пидорас\24_6Variant\bin\Debug\24_6Variant.pdb
+C:\Главный Пидорас\24_6Variant\obj\Debug\24_6Variant.csproj.AssemblyReference.cache
+C:\Главный Пидорас\24_6Variant\obj\Debug\24_6Variant.csproj.SuggestedBindingRedirects.cache
+C:\Главный Пидорас\24_6Variant\obj\Debug\_24_6Variant.Form1.resources
+C:\Главный Пидорас\24_6Variant\obj\Debug\_24_6Variant.Properties.Resources.resources
+C:\Главный Пидорас\24_6Variant\obj\Debug\24_6Variant.csproj.GenerateResource.cache
+C:\Главный Пидорас\24_6Variant\obj\Debug\24_6Variant.csproj.CoreCompileInputs.cache
+C:\Главный Пидорас\24_6Variant\obj\Debug\24_6Variant.exe
+C:\Главный Пидорас\24_6Variant\obj\Debug\24_6Variant.pdb
